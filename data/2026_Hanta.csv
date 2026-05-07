@@ -1,0 +1,10 @@
+﻿Gh_ID,linked_id,status,linked_information,symptom_onset,outcome,outcome_date,treatment,cruise crew (y/n),passenger (y/n),age,sex,symptoms,cause_death,exposure,travel_from,travel_to,Travel_flight,context,ship_boarded,left_ship,left_location,confirmed,confirmation_date,nationality,sources
+1,2,,husband ID2,4/6/26,died,4/11/26,,n,y,70,male,"fever, headache, diarrhea",respiratory distress,NA,,,,,4/1/26,4/24/26,St. Helena,,,dutch,
+2,1,confirmed,wife ID1,4/24/26,died,4/26/26,,n,y,69,female,diarreah,,Husband,St. Helena,"Johannesburg, South Africa",Airlink ,"82 passengers, 6 crew, boarded onward flight to Schipol, KLM592, had to disembark",4/1/26,4/24/26,St. Helena,y,5/4/26,dutch,
+3,,confirmed,,4/24/26,,,intensive care,n,y,,,"fever, shortness of breath, signs of pneumonia",,,Ascension,South Africa,,,4/1/26,4/27/26,Ascension,y,5/2/26,british,
+4,,,,4/28/26,died,5/2/26,,n,y,,female,"flu like symptoms, later signs of pneumonia",,,,,,,4/1/26,,,,,german,
+5,,confirmed,,,,,intensive care,n,y,,male,,,,St. Helena,"Zurich, Switzerland",,,4/1/26,4/24/26,St. Helena,y,5/6/26,swiss,
+6,2,suspected,flight attendant,,,,,n,n,,,,,ID2 on KLM flight to Schipol,,,,,,,,,,,
+7,,suspected,,,,,,n,y,,,serious conditions,,,NA,NA,Medicalized aircraft,,4/1/26,5/6/26,,,,,
+8,,suspected,,,,,,n,y,,,serious conditions,,,NA,NA,Medicalized aircraft,,4/1/26,5/6/26,,,,,
+9,4,suspected,,,,,,n,y,,,no symptoms,,linked to person who died 2026-05-02 (ID4),NA,NA,Medicalized aircraft,,4/1/26,5/6/26,,,,,
