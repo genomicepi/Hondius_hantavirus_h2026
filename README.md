@@ -2,7 +2,7 @@
 
 This repository contains a curated epidemiological line list of cases associated with the **ongoing 2026 Hantavirus outbreak**. The outbreak has been linked to the **Andes virus (ANDV)** strain.
 
-The primary data is stored in `data/2026_hantavirus.csv`.
+The primary line list data is stored in `data/linelist/2026_hantavirus.csv. We are also curating data related to exposures, sequences, and news articles. See Data section below. 
 
 ## Citation
 Please cite: "Global.health: Hondius hantavirus 2026 outbreak data [YYYY-MM-DD]" and also acknowledge/cite the data sources listed. 
